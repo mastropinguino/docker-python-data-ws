@@ -1,0 +1,7 @@
+numpy>=1.12
+pandas>=0.19
+netCDF4>=1.2.9
+h5py>=2.7.1
+Flask>=0.12
+requests>=2.18.2
+gunicorn>=19.7.1
