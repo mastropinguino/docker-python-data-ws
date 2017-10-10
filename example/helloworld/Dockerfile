@@ -1,4 +1,4 @@
-FROM mastropinguino/docker-python-data-ws:3.6
+FROM mastropinguino/python-data-ws:3.6
 
 COPY . /srv/app/
 

@@ -19,7 +19,7 @@ The application is booted by gunicorn HTTP server, with configuration stored at 
 To use image, simply base your _Dockerfile_ on it with:
 
 ```Dockerfile
-FROM mastropinguino/docker-python-data-ws:3.6
+FROM mastropinguino/python-data-ws:3.6
 ```
 
 copy the application into _/srv/app/_ folder:
